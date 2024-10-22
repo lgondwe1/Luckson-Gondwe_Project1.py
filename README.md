@@ -1,0 +1,1 @@
+Game of Hangman that uses predetermined words and you have to try to guess the word. You're given 3 strikes for every incorrect letter you guess and after the 3rd strike the game ends but if you guess the letter correct then you get to guess another letter untill you guess the word completely.
